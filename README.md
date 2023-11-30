@@ -44,10 +44,7 @@ The Braille App is a tool to convert text or basic shapes into a Braille format 
 
 **Run Locally:**
 ```bash
-git clone https://github.com/<repo>
-```
-```bash
-cd <project_folder>
+git clone https://github.com/RusithHansana/Braile-Printer-App.git
 ```
 - Restore dependencies
 - Launch API and client project
