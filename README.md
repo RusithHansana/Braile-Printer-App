@@ -51,9 +51,10 @@ git clone https://github.com/RusithHansana/Braile-Printer-App.git
 
 ## Team
 
-- BGR Hansana
-- OP Desinhala
-- ENAB Jayarathna 
-- PWAG Perera
-- MHN Sathsara
+- [RusithHansana](https://github.com/RusithHansana)  
+- [AvishkaGihan](https://github.com/AvishkaGihan)
+- [OshiniPoornima](https://github.com/OshiniPoornima) 
+- [SathsaraHewage](https://github.com/MHN-Sathsara)
+- [NiroshanBandara](https://github.com/niroshanbandara)  
+
  
